@@ -2,6 +2,8 @@
 layout: post
 ---
 
+# Introducción
+
 ¡Hola! Bienvenido a **Matemáticas Imaginarias**.
 
 A lo largo de esta página web, encontrarás una gran cantidad de recursos con los que podrás aprender matemáticas de **nivel universitario**. A diferencia de otros sitios educativos, mi intención es explicar las matemáticas como pocos profesores me las explicaron... **Con buenos y limpios apuntes**.
