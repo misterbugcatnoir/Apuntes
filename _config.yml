@@ -31,6 +31,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+theme: jekyll-theme-midnight
+
 defaults:
   - scope:
       path: "_posts"
