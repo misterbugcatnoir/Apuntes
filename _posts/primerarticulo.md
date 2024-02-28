@@ -1,5 +1,5 @@
 ---
-title: Mi primer artículo
+title: primerarticulo
 date: 2024-02-28
 categories: [jekyll, markdown, github]
 tags: [tutorial, web, blog]
