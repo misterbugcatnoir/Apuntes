@@ -1,13 +1,14 @@
 ---
-title: primerarticulo
+title: Mi primer artículo
 date: 2024-02-28
 categories: [jekyll, markdown, github]
 tags: [tutorial, web, blog]
+layout: post
 ---
 
 # Mi primer artículo
 
-Este es el contenido de mi primer artículo en markdown. Puedo usar diferentes elementos de formato, como **negrita**, *cursiva*, [enlaces](https://tutorialmarkdown.com/herramientas/jekyll), imágenes, listas, tablas, etc.
+Este es el contenido de mi primer artículo en markdown. Puedo usar diferentes elementos de formato, como **negrita**, *cursiva*, [enlaces](https://kinsta.com/es/blog/jekyll-sitio-estatico/), imágenes, listas, tablas, etc.
 
 ## Una sección
 
@@ -23,7 +24,5 @@ $e=mc^2$
 
 ```ruby
 puts "Hola, mundo!"
-
-
 
 
