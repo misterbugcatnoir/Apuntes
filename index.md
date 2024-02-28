@@ -27,12 +27,7 @@ Siéntete libre de **ojear** o incluso **aprender** de cualquier contenido trata
 
   {% for post in site.posts %}
   <article>
-    <h4>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h4>
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    <a href="{{ post.url }}"> {{ post.title }} </a>: <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
   </article>
 {% endfor %}
 
