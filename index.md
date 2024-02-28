@@ -23,4 +23,17 @@ Me gustaría que esta página sirviera de ayuda para todos aquellos estudiantes 
 
 Siéntete libre de **ojear** o incluso **aprender** de cualquier contenido tratado en la página, independientemente del nivel educativo en el que te encuentres. En las lecciones más básicas intentaré que todo el mundo me pueda entender, aunque lo cierto es que recomiendo haber cursado como mínimo el **bachillerato**.
 
+## Todos los posts
+
+  {% for post in site.posts %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    {{ post.content }}
+  </article>
+{% endfor %}
 
