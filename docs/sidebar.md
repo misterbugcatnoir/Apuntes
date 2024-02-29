@@ -1,11 +1,13 @@
 - **Bienvenida**
 - [Introducción](inicio.md)
+- [Estructura de la web](estructuraWeb.md)
 - **Contenidos**
-  1. [Teoría de Conjuntos](SECCION-TEORIA-DE-CONJUNTOS.md)
-  2. [Álgebra Lineal](algebraLineal.md)
-  3. [Análisis Real en 1 Variable](analisisrealunavariable.md)
-  4. [Geometría Afín y Euclídea](geometria.md)
-  5. [Topología](topologia.md)
+  1. [Teoría de Conjuntos](seccionTeoriaDeConjuntos.md)
+  2. [Álgebra Lineal](seccionAlgebraLineal.md)
+  3. [Análisis Real](seccionAnalisisReal.md)
+  4. [Geometría Afín](geometriaAfin.md)
+  5. [Geometría Euclídea](geometriaEuclidea.md)
+  6. [Topología](topologia.md)
 - **Acerca de**
 - [Futuros cambios](futurosCambios.md)
 - **Enlaces**
