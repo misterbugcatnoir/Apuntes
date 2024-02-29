@@ -1,7 +1,7 @@
 - **Bienvenida**
 - [Introducción](inicio.md)
 - **Contenidos**
-  1. [Teoría de Conjuntos](/articulos/conjuntos.md)
+  1. [Teoría de Conjuntos](SECCION-TEORIA-DE-CONJUNTOS.md)
   2. [Álgebra Lineal](algebraLineal.md)
   3. [Análisis Real en 1 Variable](analisisrealunavariable.md)
   4. [Geometría Afín y Euclídea](geometria.md)
