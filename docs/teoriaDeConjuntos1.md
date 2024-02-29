@@ -1,12 +1,10 @@
 # Introducción a la teoría de conjuntos
 
-Para introducir la **Teoría de Conjuntos**, hagámonos una pregunta.
+Hagámonos una pregunta:
 
 > ¿Cuál es el fundamento de las matemáticas? 
 
-Es decir, si tuviésemos que "crear" las matemáticas desde 0,
-
-> ¿por donde empezaríamos?
+Es decir, si tuviésemos que "crear" las matemáticas desde 0, o si tuviésemos que explicarselas a una civilización alienígena que no tuviese **ni idea** de qué son, ni siquiera supiesen sumar... ¿por donde empezaríamos?
 
 Quizás pienses que un buen punto de partida sería:
 - La lógica
@@ -14,7 +12,7 @@ Quizás pienses que un buen punto de partida sería:
 - Los cuerpos geométricos
 - ...
 
-Y no son ideas descabelladas. Sin embargo, la afortunada seleccionada para llevar a cabo la difícil tarea de fundamentar las matemáticas es...
+Y no son ideas descabelladas. Sin embargo, por razones históricas, filosóficas y lógicas, la afortunada seleccionada para llevar a cabo esta difícil tarea ha sido...
 
 > ¡La **Teoría de Conjuntos**!
 
