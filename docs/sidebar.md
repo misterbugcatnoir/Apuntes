@@ -2,6 +2,7 @@
 - [Introducción](inicio.md)
 - [Estructura de la web](estructuraWeb.md)
 - **Contenidos**
+  0. [Introducción a la Matemática](seccionIntroduccion.md)
   1. [Teoría de Conjuntos](seccionTeoriaDeConjuntos.md)
   2. [Álgebra Lineal](seccionAlgebraLineal.md)
   3. [Análisis Real](seccionAnalisisReal.md)
