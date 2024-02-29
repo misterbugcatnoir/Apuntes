@@ -1,6 +1,12 @@
 # Introducción a la teoría de conjuntos
 
-¿Qué es lo más fundamental en matemáticas? O dicho de otra forma, ¿cuál es el fundamento en el que se sustentan todas las matemáticas?
+Para introducir la Teoría de Conjuntos, hagámonos una pregunta.
+
+¿Cuál es el fundamento de las matemáticas? 
+
+O visto de otra forma:
+
+Si tuviésemos que "crear" las matemáticas desde 0, ¿por donde empezaríamos?
 
 Quizás se te pasen varias respuestas por la cabeza:
 - La lógica
