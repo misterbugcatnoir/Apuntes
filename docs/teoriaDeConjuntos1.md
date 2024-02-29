@@ -18,3 +18,7 @@ Y no son ideas descabelladas. Sin embargo, por razones históricas, filosóficas
 
 ## ¿Qué es la Teoría de Conjuntos?
 
+Aunque pueden haber varias definiciones dependiendo del autor que se cite, yo voy a dar mi propia definición, que espero que, aunque no muy formal, transmita adecuadamente el concepto.
+
+> La teoría de conjuntos
+
