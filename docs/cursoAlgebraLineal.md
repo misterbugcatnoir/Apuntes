@@ -5,4 +5,4 @@
 
 ## Artículos
 
-1. [Introducción al álgebra lineal](algebraLineal1.md)
+1. [Introducción al Álgebra Lineal](algebraLineal1.md)
