@@ -5,4 +5,4 @@
 
 ## Artículos
 
-1. [Introducción a la Geometría Euclídea](teoriaDeConjuntos1.md)
+1. [Introducción a la Geometría Euclídea](geometriaEuclidea1.md)
