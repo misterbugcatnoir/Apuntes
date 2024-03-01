@@ -1,10 +1,10 @@
 # Estructura de la web
 
-En la **barra lateral izquierda** puedes observar las diferentes secciones de las que consta la web.
+En la **barra lateral izquierda** puedes observar las diferentes **secciones** de las que consta la web.
 
 > Nota: Si usas *smartphone*, la barra lateral no aparecerá directamente. Tendrás que darle a un botoncito con 3 líneas horizontales para asi poder desplegar la barra lateral.
 
-## Secciones de la web
+## Secciones
 
 ### Bienvenida
 
@@ -14,7 +14,7 @@ Aquí podrás leer la presentación de la web, además de este mismo artículo q
 
 Aquí podrás acceder al contenido creado sobre distintas áreas de las matemáticas.
 Dicho contenido se encuentra ordenado numéricamente. Para estudiantes primerizos, recomiendo empezar por la parte 0, e ir progresando
-de parte en parte. Si solo necesitas consultar un área específica, siéntete libre de acceder a cualquier parte.
+de parte en parte. Si solo necesitas consultar un área específica, siéntete libre de acceder en cualquier orden.
 
 ### Acerca de
 
