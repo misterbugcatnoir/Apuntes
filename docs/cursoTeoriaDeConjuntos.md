@@ -1,6 +1,6 @@
 # Teoría de Conjuntos
 
-Hola
+[Sección en construcción]
 
 
 
