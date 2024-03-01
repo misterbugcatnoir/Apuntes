@@ -1,6 +1,6 @@
 # Teoría de Conjuntos
 
-[Sección en construcción]
+Esta sección trata sobre la teoría de conjuntos, fundamental para establecer una base teórica de las matemáticas como las conocemos hoy en día.
 
 
 ## Artículos
