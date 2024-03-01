@@ -10,6 +10,7 @@
   6. [Geometría Euclídea](geometriaEuclidea.md)
   7. [Topología](topologia.md)
 - **Acerca de**
+- [Estado del proyecto](estadoProyecto.md)
 - [Futuros cambios](futurosCambios.md)
 - **Enlaces**
 - [GitHub](https://github.com/misterbugcatnoir/Matematicas-Imaginarias)
