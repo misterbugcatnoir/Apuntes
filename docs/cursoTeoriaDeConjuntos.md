@@ -5,4 +5,4 @@
 
 ## Artículos
 
-1. [Introducción a la teoría de conjuntos](teoriaDeConjuntos1.md)
+1. [Introducción a la Teoría de Conjuntos](teoriaDeConjuntos1.md)
