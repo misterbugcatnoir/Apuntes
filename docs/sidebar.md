@@ -1,7 +1,7 @@
 - **Bienvenida**
 - [Introducción](paginaInicio.md)
 - [Estructura de la web](/informacionWeb/estructuraWeb.md)
-- [Por donde empezar](/informacionWeb/porDondeEmpezar.md)
+- [Preguntas frecuentes](/informacionWeb/preguntasFrecuentes.md)
 - **Contenidos**
   1. [Introducción a la Matemática](cursos/1-introduccionMatematica/indice.md)
   2. [Teoría de Conjuntos](cursos/2-teoriaDeConjuntos/indice.md)
