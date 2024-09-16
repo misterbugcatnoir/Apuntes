@@ -3,7 +3,7 @@
 - [Estructura de la web](estructuraWeb.md)
 - **Contenidos**
   1. [Introducción a la Matemática](cursoIntroduccion.md)
-  2. [Teoría de Conjuntos](/docs/indicesCursos/indiceTeoriaDeConjuntos.md)
+  2. [Teoría de Conjuntos](/indicesCursos/indiceTeoriaDeConjuntos.md)
   3. [Álgebra Lineal](cursoAlgebraLineal.md)
   4. [Análisis Real](cursoAnalisisReal.md)
   5. [Geometría Afín](cursoGeometriaAfin.md)
