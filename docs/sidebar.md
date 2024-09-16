@@ -2,8 +2,8 @@
 - [Introducción](paginaInicio.md)
 - [Estructura de la web](/informacionWeb/estructuraWeb.md)
 - **Contenidos**
-  1. [Introducción a la Matemática](cursoIntroduccion.md)
-  2. [Teoría de Conjuntos](/indicesCursos/indiceTeoriaDeConjuntos.md)
+  1. [Introducción a la Matemática](cursos/1-introduccionMatematica/indice.md)
+  2. [Teoría de Conjuntos](cursos/2-teoriaDeConjuntos/indice.md)
   3. [Álgebra Lineal](cursoAlgebraLineal.md)
   4. [Análisis Real](cursoAnalisisReal.md)
   5. [Geometría Afín](cursoGeometriaAfin.md)
