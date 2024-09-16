@@ -1,6 +1,6 @@
 - **Bienvenida**
-- [Introducción](inicio.md)
-- [Estructura de la web](estructuraWeb.md)
+- [Introducción](/informacionWeb/inicio.md)
+- [Estructura de la web](/informacionWeb/estructuraWeb.md)
 - **Contenidos**
   1. [Introducción a la Matemática](cursoIntroduccion.md)
   2. [Teoría de Conjuntos](/indicesCursos/indiceTeoriaDeConjuntos.md)
@@ -10,7 +10,7 @@
   6. [Geometría Euclídea](cursoGeometriaEuclidea.md)
   7. [Topología](cursoTopologia.md)
 - **Acerca de**
-- [Estado del proyecto](estadoProyecto.md)
-- [Futuros cambios](futurosCambios.md)
+- [Estado del proyecto](informacionWeb/estadoProyecto.md)
+- [Futuros cambios](informacionWeb/futurosCambios.md)
 - **Enlaces**
 - [GitHub](https://github.com/misterbugcatnoir/Matematicas-Imaginarias)
