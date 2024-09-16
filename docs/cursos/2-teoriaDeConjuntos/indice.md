@@ -7,7 +7,7 @@ Esta sección trata sobre la teoría de conjuntos, fundamental para establecer u
 
 ### Conjuntos
 
-1. [Introducción a la Teoría de Conjuntos](teoriaDeConjuntos1.md)
+1. [Introducción a la Teoría de Conjuntos](conjuntos1.md)
 2. [Conjuntos y sus elementos](teoriaDeConjuntos2.md)
 3. [Contenido e igualdad](teoriaDeConjuntos3.md)
 4. [Intersección de conjuntos](teoriaDeConjuntos4.md)
