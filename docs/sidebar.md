@@ -1,5 +1,5 @@
 - **Bienvenida**
-- [Introducción](/informacionWeb/paginaInicio.md)
+- [Introducción](paginaInicio.md)
 - [Estructura de la web](/informacionWeb/estructuraWeb.md)
 - **Contenidos**
   1. [Introducción a la Matemática](cursoIntroduccion.md)
